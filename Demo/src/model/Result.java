@@ -3,7 +3,7 @@ package model;
 import java.io.Serializable;
 
 /**
- * 结果对象
+ * 要返回的结果对象
  * @author lei
  *
  */
